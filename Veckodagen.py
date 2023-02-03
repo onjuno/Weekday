@@ -1,4 +1,4 @@
-// Olle Nordlander - olno8946
+# Olle Nordlander - olno8946
 
 dagarna = [31,28,31,30,31,30,31,31,30,31,30,31]
 veckodagar = ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
